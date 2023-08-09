@@ -3,9 +3,6 @@ MADHAV ECOMMERCE SALES
 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞:- 
 
 The owner of the Madhav Store wants us to help them create a dashboard to track and analyze their online sales across India.
-
-
-
 ﻿𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠𝐬:-
 
 • Created an interactive dashboard to track and analyze online sales data.
@@ -16,11 +13,7 @@ The owner of the Madhav Store wants us to help them create a dashboard to track 
 
 • Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc).
 
-
-
 ﻿Useful Insights:
-
-
 
 -Maximum sales are driven through COD payment mode.
 

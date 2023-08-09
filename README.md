@@ -22,10 +22,10 @@ The owner of the Madhav Store wants us to help them create a dashboard to track 
 
 
 
-➡Maximum sales are driven through COD payment mode.
+-Maximum sales are driven through COD payment mode.
 
-➡ Maximum sales are from the Clothing(63%) and then Electronics(21%).
+-Maximum sales are from the Clothing(63%) and then Electronics(21%).
 
-➡Printers and Bookcases are the sub-categories that have the maximum sales.
+-Printers and Bookcases are the sub-categories that have the maximum sales.
 
-➡ Most of the customers are from Maharashtra and Madhya Pradesh.
+-Most of the customers are from Maharashtra and Madhya Pradesh.
